@@ -1,6 +1,6 @@
 ### Oi!! Eu sou o Renan Ramos 👋
 
-- 🌱 Atualmente estudo Java, JavaScript.
+- 🌱 Atualmente estudando automação de testes.
 
 <div align="center">
   <a href="https://github.com/Renan-CPU">
